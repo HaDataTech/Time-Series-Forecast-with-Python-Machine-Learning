@@ -1,4 +1,5 @@
-Problem:<br/>
-Solution:<br/>
-Results::<br/>
-Recommendation::<br/>
+# STOCK MARKET FORECASTING USING MACHINE LEARNING 
+## Problem Statement
+## Solution
+## Results
+## Recommendation
